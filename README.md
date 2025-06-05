@@ -1,4 +1,4 @@
-ZwTimerResolution is simple timer resolution "application" what allow u set timer resolution under 1ms and under 15ms to 0.5ms{is possible under but i make it gave me time.] in context of process with low memoery usage 0.4MB - 0.6MB without gui
+ZwTimerResolution is simple timer resolution "application" what allow u set timer resolution under 1ms and under 15ms to 0.5ms{is possible under but i make it gave me time.] in context of process with low memory usage 0.4MB - 0.6MB without gui
 
 --- review --- 
 ![image](https://github.com/user-attachments/assets/35a274a0-7179-499c-a4c5-80556a3c24cf)
