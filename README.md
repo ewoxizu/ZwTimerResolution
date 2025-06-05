@@ -8,7 +8,7 @@
 
 note : i release it, until i want it u want write me on discord @ewoxizu and i not reply always.
 -
-and in hklm/control/currentcontrolset/session manager/kernel
+and in "hklm/system/currentcontrolset/control/session manager/kernel"
 dword : GlobalTimerResolutionRequests
 value : 1{0} for disable {diff' set in regedit
 -
