@@ -6,3 +6,18 @@ ZwTimerResolution is simple timer resolution "application" what allow u set time
 
 note : i release it, until i want it u want write me on discord @ewoxizu and i not reply always.
 
+and in hklm/control/currentcontrolset/session manager/kernel
+dword : GlobalTimerResolutionRequests
+value : 1{0} for disable {diff' set in regedit
+
+: ![image](https://github.com/user-attachments/assets/7d1ee6df-84b1-4a7b-b401-d39d4bcaa8f8)
+
+: References
+https://en.wikipedia.org/wiki/High_Precision_Event_Timer
+https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms775938(v=vs.85)
+https://learn.microsoft.com/en-us/windows/win32/multimedia/timer-resolution
+https://learn.microsoft.com/en-us/windows/win32/multimedia/obtaining-and-setting-timer-resolution
+https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/high-resolution-timers
+https://learn.microsoft.com/en-us/windows/win32/multimedia/timer-resolution
+
+
